@@ -1,0 +1,14 @@
+﻿# .env
+TOKEN="token"
+CLIENT_ID="client_id"
+CLIENT_SECRET="client_secret"
+GIF_COOLDOWN='60'
+MOD_ROLES='King,Bad Bitch,Moderator'
+SUGGEST_SHEET='sheet_id'
+POSTS="posts.txt"
+SERVICE_JSON="service_account.json"
+BOT_OWNER="owner_name"
+GET_GIF_URL="http://getgifurl"
+ADD_GIF_URL="http://addgifurl"
+UPDATE_GIF_URL="http://updategifurl"
+DELETE_GIF_URL="http://deletegifurl"
