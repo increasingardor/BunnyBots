@@ -10,7 +10,6 @@ class TtsCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self.queue = collections.deque([])
-        self.last_used = 0
 
     # Base !tts command. The only real difference between the various commands is the domain extension gTTS uses
     # to contact Google Translate
